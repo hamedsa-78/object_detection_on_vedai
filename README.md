@@ -7,3 +7,4 @@ here there are some useful scripts fro preprocessing datas on dataset and some o
 
 the Jupyter Notebooks of this task on retina net and Yolov5 are also there.
 
+You can clone vedai dataset from this link :  https://github.com/mr8bit/vedai
