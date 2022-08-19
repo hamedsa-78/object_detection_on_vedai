@@ -5,6 +5,6 @@ here there are some useful scripts fro preprocessing datas on dataset and some o
 * Generate predictions (get all predicted boxes of retina net that are candidate for matching real boxes (predit_boxes.py)
 * convert train.csv and test.csv files to data format that yolov5 expecting  (build_yolov5_dataset.py)
 
-the Jupyter Notebooks of this task on retina net and Yolov5 are also there.
+the Jupyter Notebooks of this task on retina net and Yolov5 are also exists.
 
 You can clone vedai dataset from this link :  https://github.com/mr8bit/vedai
